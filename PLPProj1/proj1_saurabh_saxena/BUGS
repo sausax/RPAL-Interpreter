@@ -1,0 +1,7 @@
+Might throw exception for empty file.
+
+To compile 
+make 
+
+To test:
+p1 -ast FILENAME

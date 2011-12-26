@@ -1,0 +1,8 @@
+0a1,7
+> let
+> .=
+> ..<ID:a>
+> ..<STR:'abcdefghijklmnopqrstuvwxyz'>
+> .gamma
+> ..<ID:Print>
+> ..<ID:a>

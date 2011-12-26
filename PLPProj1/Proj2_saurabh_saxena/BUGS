@@ -1,0 +1,9 @@
+Does not for test file tiny.1
+
+Might throw exception for empty file.
+
+To compile 
+make 
+
+To test:
+p1 -ast FILENAME

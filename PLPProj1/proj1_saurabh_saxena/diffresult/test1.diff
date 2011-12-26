@@ -1,0 +1,12 @@
+0a1,11
+> let
+> .=
+> ..<ID:a>
+> ..tau
+> ...<INT:1>
+> ...<INT:2>
+> .gamma
+> ..<ID:Print>
+> ..aug
+> ...<ID:a>
+> ...<INT:3>

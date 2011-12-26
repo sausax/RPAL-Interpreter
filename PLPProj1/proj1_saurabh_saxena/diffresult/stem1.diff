@@ -1,0 +1,13 @@
+0a1,12
+> let
+> .function_form
+> ..<ID:f>
+> ..<ID:x>
+> ..gamma
+> ...<ID:Stem>
+> ...<ID:x>
+> .gamma
+> ..<ID:Print>
+> ..gamma
+> ...<ID:f>
+> ...<STR:'222'>
